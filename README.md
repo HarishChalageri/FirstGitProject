@@ -1,2 +1,2 @@
 # FirstGitProject
-This is the first Git Repositry Project creatd by Harish
+First Git REpositry Project creatd by Harish
